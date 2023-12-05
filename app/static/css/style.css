@@ -1,0 +1,44 @@
+.logo{
+    padding: 31px 130px 0px 130px;
+    display: flex;
+}
+
+.info{
+    padding: 15px;
+    padding-left: 55px;
+    
+}
+
+.photo{
+    padding-right: 15px;
+}
+
+.container{
+    display: flex;
+    padding-left: 70px;
+}
+
+.menu{
+    color: #01678A;
+}
+
+.menu2{
+    color: #AAA;
+    display: flex;
+}
+
+.menu3{
+    /* display: flex; */
+    padding-left: 10px;
+    
+}
+
+p{
+    padding-right: 35px;
+    font-family: Roboto;
+}
+
+.addres{
+    padding-top: 13px;
+    padding-left: 94px;
+}
